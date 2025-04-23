@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "my-contacts-backend-api",
   "version": "1.0.0",
   "description": "This is my express project",
@@ -16,5 +17,9 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
+=======
+  "dependencies": {
+    "express-async-handler": "^1.2.0"
+>>>>>>> 680094d (Removed node_modules from tracking and updated .gitignore)
   }
 }
